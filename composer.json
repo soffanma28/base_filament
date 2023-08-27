@@ -23,6 +23,7 @@
         "webbingbrasil/filament-advancedfilter": "^3.0@beta"
     },
     "require-dev": {
+        "barryvdh/laravel-debugbar": "^3.9",
         "fakerphp/faker": "^1.9.1",
         "laravel-lang/common": "^4.0",
         "laravel/pint": "^1.0",
