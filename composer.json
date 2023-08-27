@@ -14,6 +14,7 @@
         "aymanalhattami/filament-slim-scrollbar": "^2.0",
         "bezhansalleh/filament-shield": "^3.0@beta",
         "coolsam/flatpickr": "^3.0",
+        "doctrine/dbal": "^3.6",
         "filament/filament": "^3.0-stable",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.10",
